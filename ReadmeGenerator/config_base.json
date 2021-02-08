@@ -2,7 +2,7 @@
     {
         "type": "config",
         "data": {
-            "githubUser": "HectorPulido",
+            "githubUser": "NahedAlvarez",
             "categories": [
                 {
                     "name": "AI",
@@ -29,7 +29,7 @@
     },
     {
         "type": "intro",
-        "data": "Hello, Hector Pulido is Here! 👋"
+        "data": "Hello, Nahed is Here! 👋"
     },
     {
         "type": "description",
@@ -51,15 +51,13 @@
         "data": {
             "title": "Tech Stack ⌨",
             "tech": [
-                "Python and Flask, Django ⭐",
-                "Pytorch ⭐",
+                "Unity3D ⭐",
                 "C# and .Net Technologies",
+                "Playfab",
+                "React and TypeScript",
                 "Javascript and NodeJs",
                 "SQL and Relational Databases",
-                "Linux, AWS and Docker",
-                "Unity3D ⭐",
-                "Arduino and electronics",
-                "ASM for Pics"
+                "Mongo DB"
             ]
         }
     },
@@ -86,24 +84,14 @@
             "title": "@<div align=\"center\">\n<h3 align=\"center\">Let's connect 😋</h3>\n</div>",
             "social": [
                 {
-                    "alt": "Hector's LinkedIn",
-                    "url": "https://www.linkedin.com/in/hector-pulido-17547369/",
+                    "alt": "Nahed's LinkedIn",
+                    "url": "https://www.linkedin.com/in/nahedalvarez/",
                     "image": "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
                 },
                 {
-                    "alt": "Hector's Twitter",
-                    "url": "https://twitter.com/Hector_Pulido_",
-                    "image": "https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"
-                },
-                {
-                    "alt": "Hector's Twitch",
-                    "url": "https://www.twitch.tv/hector_pulido_",
-                    "image": "https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"
-                },
-                {
-                    "alt": "Hector's Youtube",
-                    "url": "https://www.youtube.com/channel/UCS_iMeH0P0nsIDPvBaJckOw",
-                    "image": "https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"
+                    "alt": "Nahed's Platzi",
+                    "url": "https://platzi.com/p/nahed-david-alvarez/",
+                    "image": "https://static.platzi.com/media/avatars/platziteam_8cfe6fc7-1246-4c9a-9f5d-d10d467443ee.png"
                 }
             ]
         }
