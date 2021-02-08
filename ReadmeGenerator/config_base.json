@@ -15,25 +15,20 @@
                     "tag": "gamedev"
                 },
                 {
-                    "name": "Blockchain",
-                    "emoji": "🔑",
-                    "tag": "blockchain"
-                },
-                {
-                    "name": "Backend",
+                    "name": "Apps",
                     "emoji": "💻",
-                    "tag": "backend"
+                    "tag": "Web"
                 }
             ]
         }
     },
     {
         "type": "intro",
-        "data": "Hello, Nahed is Here! 👋"
+        "data": "Hello, Nahed Alvarez is Here! 👋"
     },
     {
         "type": "description",
-        "data": "`Third Clarke law; Any sufficiently advanced technology is indistinguishable from magic.`<br><em> I'm just a simple **Mechatronic engineer**, **backend developer**, **#MachineLearning** and **#Gamedev** lover, I have delusion of **youtuber** and now **streamer**, There is no challenge big enough not to try, My code will change the **world** some day.</em>"
+        "data": "I'm just a simple **Game technologist**, **web developer**, **#MachineLearning** and **#Gamedev** lover, I never stop learning , There is no challenge big enough not to try, My code will change the **world** some day."
     },
     {
         "type": "categories",
@@ -42,8 +37,8 @@
     {
         "type": "rightImage",
         "data": {
-            "image": "https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png",
-            "link": "https://twitter.com/Hector_Pulido_"
+            "image": "https://github.com/NahedAlvarez/NahedAlvarez/raw/master/img/pequesoft.png",
+            "link": "https://twitter.com/Nahed_David"
         }
     },
     {
@@ -76,12 +71,12 @@
     },
     {
         "type": "extra",
-        "data": "<p align=\"center\">\n<a href=\"#user-30538313-pinned-items-reorder-form\">\n<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=HectorPulido&bg_color=30,e96443,904e95&title_color=fff&text_color=fff\" alt=\"Hector's Github Stats\"/>\n</a>\n</p>"
+        "data": "<p align=\"center\">\n<a href=\"#user-30538313-pinned-items-reorder-form\">\n<img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=NahedAlvarez&bg_color=30,e96443,904e95&title_color=fff&text_color=fff\" alt=\"Nahed's Github Stats\"/>\n</a>\n</p>"
     },
     {
         "type": "social",
         "data": {
-            "title": "@<div align=\"center\">\n<h3 align=\"center\">Let's connect 😋</h3>\n</div>",
+            "title": "@<div align=\"center\">\n<h3 align=\"center\">Let's connect</h3>\n</div>",
             "social": [
                 {
                     "alt": "Nahed's LinkedIn",
@@ -92,6 +87,11 @@
                     "alt": "Nahed's Platzi",
                     "url": "https://platzi.com/p/nahed-david-alvarez/",
                     "image": "https://static.platzi.com/media/avatars/platziteam_8cfe6fc7-1246-4c9a-9f5d-d10d467443ee.png"
+                },
+                {
+                    "alt": "Nahed's Twitter",
+                    "url": "https://twitter.com/Nahed_David",
+                    "image": "https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"
                 }
             ]
         }
