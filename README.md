@@ -1,7 +1,7 @@
 # Hello, Nahed Alvarez is Here! 👋
 
 
-I'm just a simple **Game technologist**, **web developer**, **#MachineLearning** and **#Gamedev** lover, I never stop learning , There is no challenge big enough not to try, My code will change the **world** some day.
+I'm just a simple **Game Developer**, **web developer**, **#MachineLearning** and **#Gamedev** lover, I never stop learning , There is no challenge big enough not to try, My code will change the **world** some day.
 
 
 <p align="center">
