@@ -7,8 +7,7 @@
 <p align="center">
 <a href="https://github.com/NahedAlvarez/NahedAlvarez/blob/master/ai.md">🤖</a>
 <a href="https://github.com/NahedAlvarez/NahedAlvarez/blob/master/gamedev.md">🎮</a>
-<a href="https://github.com/NahedAlvarez/NahedAlvarez/blob/master/blockchain.md">🔑</a>
-<a href="https://github.com/NahedAlvarez/NahedAlvarez/blob/master/backend.md">💻</a>
+<a href="https://github.com/NahedAlvarez/NahedAlvarez/blob/master/Web.md">💻</a>
 </p>
 
 
